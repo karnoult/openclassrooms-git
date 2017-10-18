@@ -1,1 +1,1 @@
-Ce repo github a été crée pour l'openclassrooms Git & GitHub
+Repo github pour l'openclassrooms Git & GitHub
